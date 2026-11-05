@@ -4,9 +4,6 @@
 
 Building scalable backend systems and modern full-stack applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leminhhieu26)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kelvin.le.tech@gmail.com)
-
 ---
 
 ## 👨‍💻 About Me
