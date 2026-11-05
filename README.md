@@ -90,21 +90,6 @@ Key contributions:
 
 ---
 
-## 🚀 Featured Projects
-
-### Booking SaaS
-A personal project exploring full-stack SaaS development and scalable backend architecture.
-
-**Planned stack:** Go, PostgreSQL, React, Next.js, TypeScript, Docker.
-
-### Go Backend Engineering
-A collection of Go backend engineering exercises, patterns, and practical implementations.
-
-### System Design & Engineering Notes
-Technical notes and practical explorations of system design, databases, distributed systems, and software architecture.
-
----
-
 ## 🧠 Engineering Interests
 
 - Backend Engineering & Distributed Systems
