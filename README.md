@@ -53,10 +53,11 @@ My core strength is Backend Engineering, with a focus on system architecture, da
 
 **Architecture & Engineering**
 
-![Microservices](https://img.shields.io/badge/Microservices-444444?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/Event--Driven-444444?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/MICROSERVICES-444444?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/EVENT--DRIVEN-444444?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-444444?style=for-the-badge)
-![Multi Tenant](https://img.shields.io/badge/Multi--Tenant-444444?style=for-the-badge)
+![Database per Service](https://img.shields.io/badge/DATABASE--PER--SERVICE-444444?style=for-the-badge)
+![Multi Tenancy](https://img.shields.io/badge/MULTI--TENANCY-444444?style=for-the-badge)
 
 **DevOps & Tools**
 
@@ -98,6 +99,7 @@ Nexlab Technology · 2023 – 2026
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Le_Minh_Hieu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leminhhieu26)
-[![Email](https://img.shields.io/badge/Email-kelvin.le.tech%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kelvin.le.tech@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-vincent.le.tech%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vincent.le.tech@gmail.com)
 
 *Always learning, building, and improving.*
